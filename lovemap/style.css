@@ -66,7 +66,7 @@ Main components
   left: 18px;
   height: 100%;
   width: 4px;
-  background: #19547e;
+  background: #e79690;
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
@@ -106,6 +106,8 @@ Main components
   }
 }
 
+
+
 .cd-timeline-img {
   position: absolute;
   top: 0;
@@ -115,6 +117,11 @@ Main components
   border-radius: 50%;
   box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
+
+
+
+
+
 .cd-timeline-img img {
   display: block;
   width: 24px;
@@ -125,6 +132,11 @@ Main components
   margin-left: 0px;
   margin-top: -12px;
 }
+
+
+/* -------------------------------- 
+-------------------------------- */
+
 .cd-timeline-img.cd-picture {
   background: #ffe6a1;
 }
