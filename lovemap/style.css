@@ -170,7 +170,7 @@ Main components
 .cd-timeline-content {
   position: relative;
   margin-left: 60px;
-  background: white;
+  background: rgb(245, 245, 245); /*  ←-- 是阅读全文框的颜色  */
   border-radius: 0.25em;
   padding: 1em;
   box-shadow: 0 3px 0 #d7e4ed;
